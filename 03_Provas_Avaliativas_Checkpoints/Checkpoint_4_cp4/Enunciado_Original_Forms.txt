@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Mecanismos de Transferência de Energia e Reações
+Turma 3ECR • Ano 2024
+Checkpoint 04: Dimensionamento de Trocador de Calor pelo Método LMTD (Média Logarítmica)
+
+ENUNCIADO ORIGINAL:
+Dimensionar a área de troca térmica A de um trocador de calor casco e tubos em contracorrente para resfriar óleo de 120 °C para 50 °C usando água de 20 °C para 40 °C com U = 450 W/m^2K.

@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Mecanismos de Transferência de Energia e Reações
+Turma 3ECR • Ano 2024
+Checkpoint 02: Convecção Forçada em Tubulações Industriais e Números Adimensionais
+
+ENUNCIADO ORIGINAL:
+Calcular o número de Reynolds, o número de Nusselt e o coeficiente de convecção h para escoamento de água a 60 °C no interior de um tubo com diâmetro D = 25 mm a uma velocidade de v = 1.5 m/s.

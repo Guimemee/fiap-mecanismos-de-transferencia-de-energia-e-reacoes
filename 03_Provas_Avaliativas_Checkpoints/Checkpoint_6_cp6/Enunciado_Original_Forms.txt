@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Mecanismos de Transferência de Energia e Reações
+Turma 3ECR • Ano 2024
+Checkpoint 06: Cinética Química e Equação de Arrhenius em Processos Térmicos
+
+ENUNCIADO ORIGINAL:
+Determinar a energia de ativação E_a e o fator pré-exponencial A para uma reação de degradação térmica de fármaco medindo as constantes de velocidade k_1 e k_2 nas temperaturas T_1 = 300 K e T_2 = 340 K.

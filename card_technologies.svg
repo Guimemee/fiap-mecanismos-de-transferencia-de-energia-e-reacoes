@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120703" />
+      <stop offset="50%" stop-color="#210f06" />
+      <stop offset="100%" stop-color="#120703" />
+    </linearGradient>
+    <linearGradient id="pGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4d2510" stroke-width="0.8" stroke-opacity="0.4" />
+      <circle cx="40" cy="40" r="1.5" fill="#ea580c" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="520" fill="url(#bgGrad)" rx="16" />
+  <rect width="1200" height="520" fill="url(#grid)" rx="16" />
+  <rect width="1196" height="516" x="2" y="2" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-opacity="0.35" rx="14" />
+
+  <path d="M 40 40 L 280 40 L 310 70 L 600 70 L 620 50 L 1160 50" fill="none" stroke="#d97706" stroke-width="1.5" stroke-opacity="0.3" />
+  <circle cx="280" cy="40" r="3.5" fill="#d97706" />
+  <circle cx="600" cy="70" r="3.5" fill="#ea580c" />
+  <circle cx="1160" cy="50" r="4" fill="#f97316" />
+
+  <g transform="translate(60, 85)">
+    <rect x="0" y="0" width="80" height="28" rx="6" fill="#33180a" stroke="#ea580c" stroke-width="1.2" />
+    <text x="40" y="19" fill="#ea580c" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" text-anchor="middle" letter-spacing="1">FIAP</text>
+    <rect x="92" y="0" width="160" height="28" rx="6" fill="#33180a" stroke="#4d2510" stroke-width="1.2" />
+    <text x="172" y="19" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">3ECR • 2024</text>
+    <rect x="264" y="0" width="200" height="28" rx="6" fill="#33180a" stroke="#f97316" stroke-width="1" />
+    <text x="364" y="19" fill="#f97316" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Sanofi EC Pharma Challenge</text>
+  </g>
+
+  <g transform="translate(60, 160)">
+    <text x="0" y="42" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" letter-spacing="-0.5">MECANISMOS DE TRANSFERÊNCIA DE ENERGIA E REAÇÕES</text>
+    <text x="0" y="80" fill="#f97316" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500">Condução Térmica, Convecção Forçada e Natural, Radiação de Corpos Negros, T</text>
+    <text x="0" y="105" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Bacharelado em Engenharia da Computação • Acervo Integral de Engenharia</text>
+  </g>
+
+  
+    <g transform="translate(560, 120)">
+      <rect width="270" height="76" rx="10" fill="#33180a" stroke="#4d2510" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f97316" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">LEI DE FOURIER</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">q = -kA dT/dx</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Condução Térmica Unidimensional</text>
+    </g>
+    <g transform="translate(850, 120)">
+      <rect width="270" height="76" rx="10" fill="#33180a" stroke="#4d2510" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f97316" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">CONVECÇÃO NEWTON</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">q = hA(Ts - T∞)</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Coeficiente de Película Fluídica</text>
+    </g>
+    <g transform="translate(560, 210)">
+      <rect width="270" height="76" rx="10" fill="#33180a" stroke="#4d2510" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f97316" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">RADIAÇÃO STEFAN</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">q = εσA(Ts⁴ - Tsur⁴)</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Emissão Térmica por Radiação</text>
+    </g>
+    <g transform="translate(850, 210)">
+      <rect width="270" height="76" rx="10" fill="#33180a" stroke="#4d2510" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f97316" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">TROCADOres LMTD</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">MÉTODO ΔTln</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Média Logarítmica de Temperatura</text>
+    </g>
+
+  <g transform="translate(60, 420)">
+    <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="1">TECNOLOGIAS &amp; METODOLOGIAS DOMINADAS:</text>
+  </g>
+  
+    <g transform="translate(60, 450)">
+      <rect width="160.0" height="28" rx="14" fill="#33180a" stroke="#ea580c" stroke-width="1" />
+      <text x="80.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🔥 Lei de Fourier</text>
+    </g>
+    <g transform="translate(232.0, 450)">
+      <rect width="185.5" height="28" rx="14" fill="#33180a" stroke="#ea580c" stroke-width="1" />
+      <text x="92.75" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">💨 Convecção Forçada</text>
+    </g>
+    <g transform="translate(429.5, 450)">
+      <rect width="262.0" height="28" rx="14" fill="#33180a" stroke="#ea580c" stroke-width="1" />
+      <text x="131.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">☀️ Radiação Stefan-Boltzmann</text>
+    </g>
+    <g transform="translate(703.5, 450)">
+      <rect width="245.0" height="28" rx="14" fill="#33180a" stroke="#ea580c" stroke-width="1" />
+      <text x="122.5" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🔄 Trocadores de Calor LMTD</text>
+    </g>
+    <g transform="translate(960.5, 450)">
+      <rect width="245.0" height="28" rx="14" fill="#33180a" stroke="#ea580c" stroke-width="1" />
+      <text x="122.5" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">⚖️ Balanço Massa &amp; Energia</text>
+    </g>
+    <g transform="translate(1217.5, 450)">
+      <rect width="160.0" height="28" rx="14" fill="#33180a" stroke="#ea580c" stroke-width="1" />
+      <text x="80.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">💊 Desafio Sanofi</text>
+    </g>
+</svg>

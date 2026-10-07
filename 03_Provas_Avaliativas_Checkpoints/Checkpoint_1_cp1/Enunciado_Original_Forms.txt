@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Mecanismos de Transferência de Energia e Reações
+Turma 3ECR • Ano 2024
+Checkpoint 01: Condução Térmica Unidimensional em Paredes Compostas e Isolamento
+
+ENUNCIADO ORIGINAL:
+Calcular a taxa de transferência de calor por condução q e a temperatura na interface de uma parede composta de reator farmacêutico formada por aço inox (k_1 = 16 W/mK, L_1 = 10 mm) e isolante de lã de rocha (k_2 = 0.04 W/mK, L_2 = 50 mm).

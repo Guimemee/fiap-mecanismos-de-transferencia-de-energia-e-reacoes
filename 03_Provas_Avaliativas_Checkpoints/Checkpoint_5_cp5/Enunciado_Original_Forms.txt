@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Mecanismos de Transferência de Energia e Reações
+Turma 3ECR • Ano 2024
+Checkpoint 05: Balanço Geral de Massa e Energia em Reatores Químicos Contínuos (CSTR)
+
+ENUNCIADO ORIGINAL:
+Determinar a vazão de fluido de resfriamento necessária na camisa de um reator químico contínuo CSTR operando em estado estacionário com reação exotérmica de Delta H = -85 kJ/mol.

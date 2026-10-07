@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Mecanismos de Transferência de Energia e Reações
+Turma 3ECR • Ano 2024
+Checkpoint 03: Radiação Térmica: Lei de Stefan-Boltzmann e Fatores de Forma
+
+ENUNCIADO ORIGINAL:
+Calcular a taxa líquida de transferência de calor por radiação entre a carcaça de um reator a T_1 = 500 K (emissividade epsilon = 0.85, área A = 2.0 m^2) e as paredes da sala a T_2 = 300 K.
